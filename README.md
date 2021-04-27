@@ -19,7 +19,7 @@
 ### About me 
 
 I'm doing my PhD at the [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html)
-- 🔭 I’m currently working on Anomaly detection for mobile robots, Point Cloud semantic segmentation and Drone Autonomous flight
+- 🔭 I’m currently working on **Anomaly detection** for mobile robots, **Point Cloud semantic segmentation** and **Drone Autonomous flight**
 - ❤️ I am passionate about **Computer Vision, 3D Vision,Machine Learning/Deep Learning, Robotics and Software Engineering** 
 - 📜 Double Master Degree in Informatics @[UNIMIB]() and @[USI]()
 - 📫 How to reach me: dario (dot) mantegazza (at) idsia (dot) ch
