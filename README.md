@@ -18,12 +18,11 @@
 
 ### About me 
 
-I'm doing a post-doc at the [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html)
-- 🔭 I’m currently working on **Anomaly detection** for mobile robots, **Point Cloud semantic segmentation** and **Drone Autonomous flight**
+I'm CEO and founder of [Flycatcher](https://flycatcher.ai), previously post-doc at the [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html)
+- 🔭 I’m currently working on **Anomaly detection** for industrial inspection, previously the same but for mobile robots, **Point Cloud semantic segmentation** and **Drone Autonomous flight**
 - ❤️ I am passionate about **Computer Vision, 3D Vision,Machine Learning/Deep Learning, Robotics and Software Engineering**
-- PhD @[USI](www.usi.ch)
-- 📜 Double Master Degree in Informatics @[UNIMIB](unimib.it) and @[USI](www.usi.ch)
-- 📫 How to reach me: dario (dot) mantegazza (at) idsia (dot) ch
+- 📜 PhD @[USI](www.usi.ch), Double Master Degree in Informatics @[UNIMIB](unimib.it) and @[USI](www.usi.ch)
+- 📫 How to reach me: hello  (at) flycatcher (dot) ai
 - 🏠 Lugano 🇨🇭
 
 
